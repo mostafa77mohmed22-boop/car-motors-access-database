@@ -43,7 +43,7 @@ The database uses one-to-many relationships to preserve referential integrity an
 - الموظفين → المبيعات.
 - طرق الدفع → المبيعات.
 
-See the relationship diagram in [`screenshots/relationships.jpg`](screenshots/relationships.jpg).
+See the relationship diagram in [`relationships.jpg`](relationships.jpg).
 
 ## Queries and reports
 
@@ -56,13 +56,13 @@ See the relationship diagram in [`screenshots/relationships.jpg`](screenshots/re
 
 | View | Screenshot |
 |---|---|
-| Main interface | [Open](screenshots/main-interface.jpg) |
-| Cars form | [Open](screenshots/cars-form.jpg) |
-| Employees form | [Open](screenshots/employees-form.jpg) |
-| Sales form | [Open](screenshots/sales-form.jpg) |
-| Relationships | [Open](screenshots/relationships.jpg) |
-| Calculated price query | [Open](screenshots/car-price-query.jpg) |
-| Available cars report | [Open](screenshots/available-cars-report.jpg) |
+| Main interface | [Open](main-interface.jpg) |
+| Cars form | [Open](cars-form.jpg) |
+| Employees form | [Open](employees-form.jpg) |
+| Sales form | [Open](sales-form.jpg) |
+| Relationships | [Open](relationships.jpg) |
+| Calculated price query | [Open](car-price-query.jpg) |
+| Available cars report | [Open](available-cars-report.jpg) |
 
 ## How to run
 
