@@ -67,11 +67,9 @@ See the relationship diagram in [`relationships.jpg`](relationships.jpg).
 ## How to run
 
 1. Install Microsoft Access.
-2. Download the `.accdb` file from the `database/` folder after it is added.
+2. Download the `.accdb` file from the `database/` folder.
 3. Open the database with Microsoft Access.
 4. Start from the Arabic main interface (الواجهة الرئيسية).
-
-> The database file will be added later to `database/Car-Motors.accdb`.
 
 ## Technologies
 
