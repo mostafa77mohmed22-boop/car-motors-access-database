@@ -2,6 +2,11 @@
 
 > مشروع أكاديمي عربي لإدارة معرض سيارات باستخدام Microsoft Access.
 
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoftaccess&logoColor=white)
+![Topic](https://img.shields.io/badge/topic-relational%20database-blue)
+![Language](https://img.shields.io/badge/interface-Arabic-green)
+
+
 ## About the project
 
 **Car Motors** is an Arabic Microsoft Access database project for managing a car showroom. It demonstrates relational database design through tables, relationships, data-entry forms, queries with calculated fields, and printable reports.
@@ -71,6 +76,15 @@ See the relationship diagram in [`relationships.jpg`](relationships.jpg).
 3. Open the database with Microsoft Access.
 4. Start from the Arabic main interface (الواجهة الرئيسية).
 
+
+## Repository structure
+
+| Path | Contents |
+|---|---|
+| `database/` | The `.accdb` database file |
+| `*.jpg` | Screenshots: main interface, forms, relationships, queries, and reports |
+| `project-overview.html` | A standalone HTML overview of the project |
+
 ## Technologies
 
 - Microsoft Access
@@ -80,3 +94,11 @@ See the relationship diagram in [`relationships.jpg`](relationships.jpg).
 ## Notes
 
 The records shown in the screenshots are used for academic demonstration. Please avoid publishing real personal data in a public repository.
+
+## Author
+
+[Mostafa Alshibani](https://github.com/mostafa77mohmed22-boop) — Information Systems & CS student, Queen Arwa University.
+
+## License
+
+Academic project — shared for learning and portfolio purposes.
